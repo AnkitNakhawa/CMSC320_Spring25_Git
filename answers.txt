@@ -5,3 +5,8 @@ with projects and use version control. This way you can keep detailed history of
 You can additionally create branches if you want to try new features or fix certain parts of your code, without changing the main code in the repository that every developer uses. When these changes work, you can merge back into the main branch, allowing for a systematic way to modify code and make changes.
 Each developer can also work on changes on their own device, and commit changes with messages noting the changes that they made within a certain brancn, allowing for easy collaboration.
 
+
+Q2: What field could data science be applied to? Give an example.
+
+Answer: Data science can be applied to many different fields, as long is there is a lot of data to be analyzed. One specific field that it can be applied to is healthcare. Patient records have lots of data, such as what they have been diagnosed with, symptoms, personal information, and type of insurance. These records can be analyzed by data science methods such as ML models that could predict disease progression within certain patients, based on different features like the time at which they got the disease, their location, and additional information about their condition. This is just one of many applications of data science in a field where there is a large amount of data.
+
