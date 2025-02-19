@@ -1,0 +1,7 @@
+Q1: Why might we consider using Git? 
+
+Answer: Using git allows multiple developers to interact
+with projects and use version control. This way you can keep detailed history of changes, and track modifications. You can revert back to previous versions in case your current code doesn't function properly. Additionally, you can create branches and 
+You can additionally create branches if you want to try new features or fix certain parts of your code, without changing the main code in the repository that every developer uses. When these changes work, you can merge back into the main branch, allowing for a systematic way to modify code and make changes.
+Each developer can also work on changes on their own device, and commit changes with messages noting the changes that they made within a certain brancn, allowing for easy collaboration.
+
